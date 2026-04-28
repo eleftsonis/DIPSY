@@ -14,7 +14,7 @@ Loris Manganelli\*,
 
 ---
 
-![Qualitative comparison of synthetic image generation for visually similar class pairs across datasets: British Shorthair vs Russian Blue (Pets), Risotto vs Paella (Food101), and Boeing 747-400 vs 777-300 (FGVC Aircraft). DIPSY generates semantically faithful and visually distinct images, preserving class-specific cues such as eye color in pets, food-specific textures and toppings, and structural aircraft details. Competing methods (DISEF and DataDream) often produce ambiguous results. Real images included for reference.](https://www.lix.polytechnique.fr/vista/projects/2025_bmvc_dipsy/static/images/qualitative_comparison_6_hq.png)
+![Qualitative comparison of synthetic image generation for visually similar class pairs across datasets: British Shorthair vs Russian Blue (Pets), Risotto vs Paella (Food101), and Boeing 747-400 vs 777-300 (FGVC Aircraft). DIPSY generates semantically faithful and visually distinct images, preserving class-specific cues such as eye color in pets, food-specific textures and toppings, and structural aircraft details. Competing methods (DISEF and DataDream) often produce ambiguous results. Real images included for reference.](img/qualitative_comparison.png)
 
 *Qualitative comparison of synthetic image generation for visually similar class pairs across datasets: British Shorthair vs Russian Blue (Pets), Risotto vs Paella (Food101), and Boeing 747-400 vs 777-300 (FGVC Aircraft). DIPSY generates semantically faithful and visually distinct images, preserving class-specific cues such as eye color in pets, food-specific textures and toppings, and structural aircraft details. Competing methods (DISEF and DataDream) often produce ambiguous results. Real images included for reference.*
 
